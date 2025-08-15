@@ -1,2 +1,0 @@
-# SartishATCx50
-AutomaticTransferControl
